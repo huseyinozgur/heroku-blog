@@ -1,1 +1,3 @@
 [![CircleCI](https://circleci.com/gh/huseyinozgur/heroku-blog/tree/master.svg?style=svg)](https://circleci.com/gh/huseyinozgur/heroku-blog/tree/master)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6134e3f3a81439ca9ff95e493bf9772)](https://www.codacy.com/app/huseyinozgur/heroku-blog?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=huseyinozgur/heroku-blog&amp;utm_campaign=Badge_Grade)
